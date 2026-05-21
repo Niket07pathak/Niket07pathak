@@ -133,19 +133,6 @@ Agentic AI project management system using **MCP-based workflows**, embeddings, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Niket07pathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niket07pathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niket07pathak&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
 
 ---
 
