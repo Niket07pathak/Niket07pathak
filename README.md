@@ -1,243 +1,181 @@
-# Niket Pathak
+<div align="center">
 
-## AI/ML Engineer | Data Science | LLM Engineering | Applied Machine Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,100:0d7377&height=200&section=header&text=Niket%20Pathak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20LLMs%20%7C%20RAG%20%7C%20Edge%20AI%20%7C%20Cloud%20ML&descAlignY=60&descSize=17" />
 
-I build production-oriented AI systems that connect machine learning research with scalable software engineering.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=800&lines=Building+production-ready+AI+systems+%F0%9F%A4%96;Fine-tuning+LLMs+%7C+RAG+Pipelines+%7C+Agentic+Workflows;Edge+AI+%7C+Responsible+ML+%7C+MLOps;MS+Computer+Science+%40+UIC+%E2%80%94+GPA+4.0+%F0%9F%8E%93;Open+to+full-time+AI%2FML+Engineer+roles+in+the+US+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Recent MS Computer Science graduate from the University of Illinois Chicago with hands-on experience in AI/ML engineering, data science, LLM applications, cloud-based ML systems, and applied research. My work spans multimodal reasoning, fairness-aware machine learning, edge AI inference, time series forecasting, Bayesian network modeling, and full-stack AI applications.
+<br/>
 
-Currently seeking full-time AI/ML Engineer opportunities in the United States.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niket--pathak-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-pathak)
+[![GitHub](https://img.shields.io/badge/GitHub-Niket07pathak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niket07pathak)
+[![Email](https://img.shields.io/badge/Email-niketpathak08@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niketpathak08@gmail.com)
+[![AWS Dev Associate](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 
----
-
-## Core Strengths
-
-- Building production-ready AI/ML and data science systems
-- Developing LLM applications, RAG pipelines, and agentic AI workflows
-- Fine-tuning and evaluating deep learning models using modern ML frameworks
-- Designing backend APIs, dashboards, and full-stack AI applications
-- Working with cloud platforms, ETL pipelines, and MLOps tools
-- Applying responsible AI, fairness-aware ML, and model interpretability techniques
-- Optimizing real-time and edge inference systems
+</div>
 
 ---
 
-## Technical Skills
+## ⚡ What I'm About
 
-### Programming Languages
-Python, SQL, R, JavaScript, TypeScript, C++
+> *I don't just train models — I build the systems around them.*
 
-### AI, Machine Learning, and Data Science
-Machine Learning, Deep Learning, NLP, Time Series Forecasting, Statistical Modeling, Bayesian Networks, Fairness-Aware ML, Model Evaluation, SHAP, Data Visualization, Feature Engineering
+MS CS grad from **UIC (GPA 4.0)** obsessed with the full AI stack: from raw data pipelines and model fine-tuning to deployed APIs and dashboards that actually work in production. I care about building things that are measurable, interpretable, and real.
 
-### LLM Engineering and Agentic AI
-Hugging Face Transformers, LangChain, LangGraph, LangSmith, LlamaIndex, OpenAI API, RAG Pipelines, Vector Databases, Embedding Models, Agentic AI, Prompt Engineering, Fine-Tuning, LoRA, PEFT, MCP
-
-### Frameworks and Libraries
-PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FastAPI, Flask, React, Vite
-
-### Cloud, MLOps, and Engineering Tools
-AWS, GCP, Microsoft Azure, Docker, Kubernetes, Git, GitHub, CI/CD, Linux/UNIX, REST APIs, MLflow, Apache Kafka, Apache Spark, Jenkins
-
-### Databases and Vector Stores
-PostgreSQL, MySQL, MongoDB, SQLite, Pinecone, Qdrant, ChromaDB
+Currently hunting for **full-time AI/ML Engineer roles in the US.**
 
 ---
 
-## Featured Projects
+## 🛠 Tech I Work With
 
-### Chain-of-Thought Supervision for Compositional VQA
+<div align="center">
 
-Repository: [Chain-of-Thought-on-CLEVR](https://github.com/Niket07pathak/Chain-of-Thought-on-CLEVR)
+**Languages**
 
-A vision-language modeling project focused on evaluating whether Chain-of-Thought supervision improves compositional reasoning on the CLEVR benchmark.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-Built a preprocessing pipeline that converts CLEVR symbolic functional programs into natural-language reasoning traces, then fine-tuned and evaluated BLIP-2 OPT-2.7B using LoRA across zero-shot, answer-only, and Chain-of-Thought supervision settings.
+**AI / LLM / ML**
 
-**Key Highlights**
-- Fine-tuned BLIP-2 OPT-2.7B using LoRA on 50,000 CLEVR samples
-- Evaluated model performance on 2,000 validation samples
-- Improved zero-shot accuracy from 8.75% to 45.95% using answer-only fine-tuning
-- Demonstrated Chain-of-Thought reasoning gains on short reasoning chains
-- Built reusable scripts for preprocessing, training, evaluation, result analysis, and visualization
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-**Tech Stack**  
-Python, PyTorch, Hugging Face Transformers, BLIP-2, OPT-2.7B, LoRA, PEFT, CLEVR, AWS EC2, Vision-Language Models
+**Backend / Frontend**
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### Wildlife Telemetry and Rare Bird Monitoring System
+**Cloud / DevOps / Data**
 
-Repository: [Wildlife-Sound-Monitoring-System](https://github.com/Niket07pathak/Wildlife-Sound-Monitoring-System)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-An end-to-end edge AI system for wildlife audio monitoring, bird species detection, rare event alerting, telemetry tracking, and real-time dashboard visualization.
+**Vector Databases & LLM Infra**
 
-The system combines BirdNET inference, a Python-based edge pipeline, MQTT-based telemetry, SQLite persistence, FastAPI backend services, and a React/Vite dashboard.
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white)
 
-**Key Highlights**
-- Built a real-time wildlife audio monitoring pipeline for bird species detection
-- Integrated rare species detection, alerting, and power-aware operating modes
-- Designed telemetry tracking for device health, latency, and system behavior
-- Built FastAPI ingestion and query APIs for sessions, telemetry, and rare events
-- Developed a React dashboard for monitoring detections and system performance
-- Reduced dashboard latency through edge inference and optimized data flow
-
-**Tech Stack**  
-Python, BirdNET, FastAPI, React, Vite, JavaScript, MQTT, SQLite, Docker, WebSockets, Edge AI, NVIDIA Jetson
-
----
-
-### Fairness-Aware Credit Scoring
-
-Repository: [Fairness-Aware-Credit-Scoring](https://github.com/Niket07pathak/Fairness-Aware-Credit-Scoring)
-
-A responsible AI project focused on reducing bias in credit scoring models while preserving predictive performance.
-
-The project compares fairness-aware machine learning techniques across multiple real-world credit datasets and introduces a Responsibility Score to evaluate fairness and accuracy together.
-
-**Key Highlights**
-- Evaluated 12 fairness-aware ML models across 4 real-world credit datasets
-- Developed a Responsibility Score to jointly assess fairness and predictive performance
-- Built a hybrid fairness pipeline using Disparate Impact Remover and Exponentiated Gradient Reduction
-- Achieved strong model performance while improving fairness metrics on HMDA data
-- Used SHAP and fairness metrics to improve interpretability and responsible AI evaluation
-
-**Tech Stack**  
-Python, Scikit-learn, Pandas, NumPy, Fairness-Aware ML, SHAP, Model Evaluation, Responsible AI
+</div>
 
 ---
 
-### AI Project Manager Using MCP
+## 🔬 Featured Projects
 
-Repository: [AI-Project-Manager-using-MCP](https://github.com/Niket07pathak/AI-Project-Manager-using-MCP)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-An in-progress AI project management system using Model Context Protocol concepts to support agentic workflows, structured task planning, project coordination, and intelligent automation.
+### 🧠 Chain-of-Thought on CLEVR
+Fine-tuned **BLIP-2 OPT-2.7B** with LoRA on 50K CLEVR samples using chain-of-thought supervision. Converted symbolic functional programs into natural-language CoT traces.
 
-**Current Focus**
-- Building MCP-based backend services for AI-assisted project management
-- Designing tool-based workflows for planning, tracking, and execution
-- Developing a full-stack architecture with backend services, embedding APIs, MCP servers, and frontend components
-- Exploring how agentic AI systems can coordinate structured project tasks and contextual decision-making
+**Result:** +37pp accuracy over zero-shot baseline; +17pp CoT gain on short reasoning chains.
 
-**Tech Stack**  
-Python, TypeScript, JavaScript, FastAPI, MCP, Embeddings, Agentic AI, Full-Stack Development
+`VLM` `LoRA` `PEFT` `Multimodal` `CoT`
 
----
+[→ View Project](https://github.com/Niket07pathak/Chain-of-Thought-on-CLEVR)
 
-## Professional Experience
+</td>
+<td valign="top" width="50%">
 
-### Data Science Research Assistant  
-**BEA Lab, University of Illinois Chicago**  
-June 2025 – May 2026
+### 🦅 Wildlife Sound Monitoring System
+Real-time edge AI system for live bird sound detection with sub-second streaming inference on **NVIDIA Jetson GPU** — with React dashboard, telemetry, and rare event alerts.
 
-- Analyzed microbiome composition across 100+ samples and 4 timepoints using Bayesian Network learning
-- Identified causal microbial dependencies using statistical network inference methods
-- Applied 5+ network inference techniques to model microbial relationships
-- Optimized computational pipelines across 200+ biological samples
-- Reduced runtime by 60% through parallel processing
+**Result:** ~40% reduction in dashboard latency via jtop-guided optimization.
 
-**Skills Used**  
-Python, Data Science, Bayesian Networks, Statistical Modeling, Network Inference, Parallel Processing, Research, Data Analysis
+`Edge AI` `BirdNET` `FastAPI` `React` `WebSockets`
 
----
+[→ View Project](https://github.com/Niket07pathak/Wildlife-Sound-Monitoring-System)
 
-### Software Engineering Intern  
-**SB Infotech**  
-January 2024 – July 2024
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-- Developed and deployed 3 high-performance cross-platform mobile applications
-- Built applications using Flutter, Dart, Android Studio, Firebase, and REST APIs
-- Improved system scalability by 30% through backend integration and performance optimization
-- Collaborated in Agile/Scrum workflows with Git, build tools, and CI pipelines
-- Accelerated release cycles by 20% while maintaining code quality
+### ⚖️ Fairness-Aware Credit Scoring
+Benchmarked 10+ fairness-aware ML models across 4 real-world credit datasets. Introduced a **Responsibility Score (RS)** combining fairness + accuracy. Hybrid DI Remover + EG Reduction pipeline on HMDA data.
 
-**Skills Used**  
-Flutter, Dart, Firebase, REST APIs, Git, CI/CD, Agile, Software Engineering, Mobile Development
+**Result:** 98% accuracy with LFR; fairness DI = 0.94; SHAP-validated interpretability.
 
----
+`Responsible AI` `Fairness` `SHAP` `ML` `HMDA`
 
-### Data Analytics Intern  
-**EntSol360**  
-May 2023 – July 2023
+[→ View Project](https://github.com/Niket07pathak/Fairness-Aware-Credit-Scoring)
 
-- Built an Azure-based ETL and forecasting pipeline for IoT sensor data
-- Integrated Azure Data Factory, Blob Storage, and SQL Database
-- Automated ingestion and transformation of 1M+ IoT sensor records
-- Improved data pipeline performance by 40%
-- Trained time series forecasting models using Prophet, ARIMA, and LSTM
-- Improved solar battery performance prediction accuracy by 50%
+</td>
+<td valign="top" width="50%">
 
-**Skills Used**  
-Python, Azure, Azure Data Factory, SQL, ETL, Time Series Forecasting, Prophet, ARIMA, LSTM, Data Analytics
+### 🤖 AI Project Manager (MCP)
+Agentic AI project management system using **MCP-based workflows**, embeddings, and full-stack AI automation — bridging LLM reasoning with real project state.
+
+**Focus:** MCP, agentic planning, task automation, full-stack AI.
+
+`MCP` `Agentic AI` `LangGraph` `Embeddings` `Full-Stack`
+
+[→ View Project](https://github.com/Niket07pathak/AI-Project-Manager-using-MCP)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus Areas
+## 📊 GitHub Stats
 
-I am currently focused on building stronger production-level systems in:
+<div align="center">
 
-- AI/ML engineering
-- LLM applications and agentic AI
-- RAG pipelines and vector databases
-- MCP-based AI automation tools
-- MLOps and cloud-native ML deployment
-- Responsible AI and fairness-aware machine learning
-- Real-time inference and edge AI systems
-- Full-stack AI products using FastAPI, React, and cloud infrastructure
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Niket07pathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niket07pathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
----
+<br/>
 
-## Roles I Am Targeting
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Niket07pathak&theme=tokyonight&hide_border=true)
 
-I am actively seeking full-time opportunities in the United States for roles such as:
-
-- AI/ML Engineer
-- Machine Learning Engineer
-- Applied Machine Learning Engineer
-- Data Scientist
-- LLM Engineer
-- AI Engineer
-- MLOps Engineer
-- Machine Learning Research Engineer
+</div>
 
 ---
 
-## Education
+## 🧭 Currently Focused On
 
-### University of Illinois Chicago  
-**Master of Science in Computer Science**  
-GPA: 4.0
-
-Relevant Coursework: Algorithms, Machine Learning, Data Science, AI Engineering, Deep Learning for NLP, Edge Computing
-
-### SGSITS, Indore  
-**Bachelor of Technology in Computer Science**  
-GPA: 3.7
-
-Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Distributed Systems, Database Systems, Agile
+```text
+◆ LLM Fine-tuning & Evaluation          ◆ RAG Pipelines & Vector Search
+◆ Agentic AI / MCP Workflows            ◆ Edge AI & Real-time Inference
+◆ MLOps & Cloud ML Pipelines            ◆ Responsible AI & Fairness Metrics
+◆ FastAPI + React Full-stack Apps       ◆ Open to AI/ML Engineering Roles 🚀
+```
 
 ---
 
-## Certifications
+## 🎓 Education & Certs
 
-- AWS Certified Developer – Associate
-- AWS Certified Cloud Practitioner
-
----
-
-## Selected Repositories
-
-| Project | Focus Area | Repository |
-|---|---|---|
-| Chain-of-Thought Supervision for Compositional VQA | Vision-Language Models, LoRA Fine-Tuning, Multimodal Reasoning | [View Project](https://github.com/Niket07pathak/Chain-of-Thought-on-CLEVR) |
-| Wildlife Telemetry and Rare Bird Monitoring System | Edge AI, Real-Time Inference, FastAPI, React Dashboard | [View Project](https://github.com/Niket07pathak/Wildlife-Sound-Monitoring-System) |
-| Fairness-Aware Credit Scoring | Responsible AI, Fairness-Aware ML, Model Evaluation | [View Project](https://github.com/Niket07pathak/Fairness-Aware-Credit-Scoring) |
-| AI Project Manager Using MCP | Agentic AI, MCP, AI Automation, Full-Stack AI Systems | [View Project](https://github.com/Niket07pathak/AI-Project-Manager-using-MCP) |
+| | |
+|---|---|
+| 🏛️ **MS Computer Science** — University of Illinois Chicago | GPA 4.0 · 2024–2026 |
+| 🏛️ **BTech Computer Science** — SGSITS, Indore | GPA 3.7 · 2020–2024 |
+| ☁️ **AWS Certified Developer — Associate** | Valid 2025–2028 |
+| ☁️ **AWS Certified Cloud Practitioner** | Valid 2025–2028 |
 
 ---
 
-## Connect With Me
+<div align="center">
 
-- LinkedIn: [linkedin.com/in/niket-pathak](https://www.linkedin.com/in/niket-pathak/)
-- GitHub: [github.com/Niket07pathak](https://github.com/Niket07pathak)
-- Email: niketpathak08@gmail.com
+*Let's build something worth deploying.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Niket07pathak&style=flat-square&color=0d7377&label=profile+views)](https://github.com/Niket07pathak)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,60:1a1a4e,100:0f0c29&height=120&section=footer" />
+
+</div>
